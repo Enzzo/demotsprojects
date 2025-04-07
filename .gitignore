@@ -1,30 +1,62 @@
 # Node.js
-/node_modules/
+/01-heloworld/node_modules/
 
 # Результаты сборки TypeScript
-/dist/
+/01-heloworld/dist/
 
 # Файлы логов
-*.log
-logs/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+/01-heloworld/*.log
+/01-heloworld/logs/
+/01-heloworld/npm-debug.log*
+/01-heloworld/yarn-debug.log*
+/01-heloworld/yarn-error.log*
 
 # Файлы переменных окружения
-# .env
-# *.env
+# /01-heloworld/.env
+# /01-heloworld/*.env
 
 # Директории тестового покрытия
-/coverage/
+/01-heloworld/coverage/
 
 # WebStorm (настройки проекта)
-.idea/
-*.iml
+/01-heloworld/.idea/
+/01-heloworld/*.iml
 
 # Файлы системы
-.DS_Store
-Thumbs.db
+/01-heloworld/.DS_Store
+/01-heloworld/Thumbs.db
 
 # Docker (если генерируются временные файлы)
-docker-compose.override.yml
+/01-heloworld/docker-compose.override.yml
+
+
+# Node.js
+/01-heloworld/node_modules/
+
+# Результаты сборки TypeScript
+/01-heloworld/dist/
+
+# Файлы логов
+/02-simple-restapi/*.log
+/02-simple-restapi/logs/
+/02-simple-restapi/npm-debug.log*
+/02-simple-restapi/yarn-debug.log*
+/02-simple-restapi/yarn-error.log*
+
+# Файлы переменных окружения
+# /02-simple-restapi/.env
+# /02-simple-restapi/*.env
+
+# Директории тестового покрытия
+/02-simple-restapi/coverage/
+
+# WebStorm (настройки проекта)
+/02-simple-restapi/.idea/
+/02-simple-restapi/*.iml
+
+# Файлы системы
+/02-simple-restapi/.DS_Store
+/02-simple-restapi/Thumbs.db
+
+# Docker (если генерируются временные файлы)
+/02-simple-restapi/docker-compose.override.yml
