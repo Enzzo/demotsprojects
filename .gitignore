@@ -1,62 +1,62 @@
 # Node.js
-/01-heloworld/node_modules/
+01-helloworld/node_modules/
 
 # Результаты сборки TypeScript
-/01-heloworld/dist/
+01-helloworld/dist/
 
 # Файлы логов
-/01-heloworld/*.log
-/01-heloworld/logs/
-/01-heloworld/npm-debug.log*
-/01-heloworld/yarn-debug.log*
-/01-heloworld/yarn-error.log*
+01-helloworld/*.log
+01-helloworld/logs/
+01-helloworld/npm-debug.log*
+01-helloworld/yarn-debug.log*
+01-helloworld/yarn-error.log*
 
 # Файлы переменных окружения
-# /01-heloworld/.env
-# /01-heloworld/*.env
+# 01-helloworld/.env
+# 01-helloworld/*.env
 
 # Директории тестового покрытия
-/01-heloworld/coverage/
+01-helloworld/coverage/
 
 # WebStorm (настройки проекта)
-/01-heloworld/.idea/
-/01-heloworld/*.iml
+01-helloworld/.idea/
+01-helloworld/*.iml
 
 # Файлы системы
-/01-heloworld/.DS_Store
-/01-heloworld/Thumbs.db
+01-helloworld/.DS_Store
+01-helloworld/Thumbs.db
 
 # Docker (если генерируются временные файлы)
-/01-heloworld/docker-compose.override.yml
+01-helloworld/docker-compose.override.yml
 
 
 # Node.js
-/01-heloworld/node_modules/
+01-helloworld/node_modules/
 
 # Результаты сборки TypeScript
-/01-heloworld/dist/
+01-helloworld/dist/
 
 # Файлы логов
-/02-simple-restapi/*.log
-/02-simple-restapi/logs/
-/02-simple-restapi/npm-debug.log*
-/02-simple-restapi/yarn-debug.log*
-/02-simple-restapi/yarn-error.log*
+02-simple-restapi/*.log
+02-simple-restapi/logs/
+02-simple-restapi/npm-debug.log*
+02-simple-restapi/yarn-debug.log*
+02-simple-restapi/yarn-error.log*
 
 # Файлы переменных окружения
-# /02-simple-restapi/.env
-# /02-simple-restapi/*.env
+# 02-simple-restapi/.env
+# 02-simple-restapi/*.env
 
 # Директории тестового покрытия
-/02-simple-restapi/coverage/
+02-simple-restapi/coverage/
 
 # WebStorm (настройки проекта)
-/02-simple-restapi/.idea/
-/02-simple-restapi/*.iml
+02-simple-restapi/.idea/
+02-simple-restapi/*.iml
 
 # Файлы системы
-/02-simple-restapi/.DS_Store
-/02-simple-restapi/Thumbs.db
+02-simple-restapi/.DS_Store
+02-simple-restapi/Thumbs.db
 
 # Docker (если генерируются временные файлы)
-/02-simple-restapi/docker-compose.override.yml
+02-simple-restapi/docker-compose.override.yml
